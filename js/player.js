@@ -14,7 +14,14 @@ export class Player extends LitElement {
             box-sizing: border-box;
             width: 624px;
             margin-bottom: 12px;
-            background: top left url("../img/grey-background.png") #222222;
+            //background: top left url("../img/grey-background.png") #222222;
+
+            background: rgba(22, 22, 22, 0.3607843137254902);
+            border-radius: 16px;
+            box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(15px);
+            -webkit-backdrop-filter: blur(15px);
+            border: 1px solid rgba(34, 34, 34, 0.3);
             display: flex;
         }
         .wrapper > div {

@@ -7,11 +7,18 @@ body {
 }
 
 header {
-    color: #efefef;
-    background-color: #222222;
+    color: #222222;
+    /*background-color: #222222;*/
+    background: top left url("../img/yellow-background.jpg");
     padding: 1em;
 }
 
 .yellow {
     color: #F2AA00;
+}
+
+#players {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
