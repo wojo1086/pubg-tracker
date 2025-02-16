@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: center center url("../img/pubg-background.png") #222222 fixed no-repeat;
+    background-size: cover;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    color: #efefef;
+    background-color: #222222;
+    padding: 1em;
+}
+
+.yellow {
+    color: #F2AA00;
+}
