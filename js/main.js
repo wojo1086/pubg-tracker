@@ -99,6 +99,10 @@ const matchHistory = [
         won: false,
         players: ['tim', 'ian', 'daniel']
     },
+    {
+        won: true,
+        players: ['tim', 'daniel']
+    },
 ];
 const playerData = {
     tim: {
