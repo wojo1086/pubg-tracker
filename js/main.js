@@ -159,6 +159,18 @@ const matchHistory = [
         won: true,
         players: ['tim', 'erik', 'ian']
     },
+    {
+        won: false,
+        players: ['tim', 'erik', 'daniel']
+    },
+    {
+        won: false,
+        players: ['tim', 'erik', 'daniel']
+    },
+    {
+        won: false,
+        players: ['tim', 'erik', 'daniel']
+    },
 ];
 const playerData = {
     tim: {
